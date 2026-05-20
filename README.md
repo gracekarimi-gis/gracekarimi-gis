@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Grace Karimi 👋
 
-<!--
-**gracekarimi-gis/gracekarimi-gis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Geomatics Engineer & GIS Developer | Nairobi, Kenya
 
-Here are some ideas to get you started:
+I build geospatial solutions — from interactive web maps and remote sensing pipelines to spatial databases and drone data processing. My work focuses on applying GIS and earth observation technologies to real-world challenges across Kenya and East Africa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**GIS & Remote Sensing**
+`ArcGIS Pro` `QGIS` `Google Earth Engine` `OpenDroneMap`
+
+**Programming**
+`Python` `GeoPandas` `Shapely` `Rasterio` `R` `SQL`
+
+**Web GIS**
+`Leaflet.js` `Mapbox GL JS` `GeoServer` `PostGIS`
+
+**Surveying & Data Collection**
+`Total Stations` `GPS Receivers` `UAV / Drone Surveys` `AutoCAD`
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🗺️ [Nairobi Road Network Analysis](#) | Accessibility and connectivity analysis of Nairobi's road network | Python, OSMnx, GeoPandas |
+| 🌍 [Land Use Change Detection — Kenya](#) | Multi-year LULC change analysis using Sentinel-2 imagery | Google Earth Engine, Python |
+| 💧 [Flood Risk Dashboard](#) | Interactive flood susceptibility map for a Kenyan watershed | DEM, QGIS, Leaflet.js |
+| 🚁 [Drone Processing Pipeline](#) | Automated orthophoto and DSM generation from UAV imagery | OpenDroneMap, QGIS |
+| 🌐 [GIS REST API](#) | Spatial data API serving GeoJSON endpoints | FastAPI, PostGIS, Python |
+
+*(Links will be updated as projects are published)*
+
+---
+
+### 💼 Experience
+
+- **Geomatics Intern** — Kenya Rural Roads Authority (KeRRA), Sep–Nov 2024
+- **Geospatial Analyst Intern** — Geodev Kenya Limited, Jan–May 2024
+- **Geomatics Research Assistant** — Dedan Kimathi University of Technology, 2023
+
+---
+
+### 🎓 Education
+
+**BSc Geomatics Engineering & GIS** — Dedan Kimathi University of Technology (2021–2025)
+
+---
+
+### 📫 Let's Connect
+
+- 📧 gracekarimi610@gmail.com
+- 🌐 [Portfolio Website](https://gracekarimi-gis.github.io) *(coming soon)*
+- 💼 [LinkedIn](#) *(add your link)*
+
+---
+
+*Open to GIS Developer, Geospatial Analyst, and Remote Sensing roles across Kenya and East Africa.*
