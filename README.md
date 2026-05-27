@@ -59,3 +59,19 @@ I build geospatial solutions — from interactive web maps and remote sensing pi
 ---
 
 *Open to GIS Developer, Geospatial Analyst, and Remote Sensing roles across Kenya and East Africa.*
+---
+
+## 📁 Projects
+
+### 🗺️ [Nairobi Road Network Analysis](https://github.com/gracekarimi-gis/nairobi-road-network)
+A comprehensive geospatial analysis of Nairobi's entire road network using Python and open-source GIS tools.
+
+**Key Findings:**
+- 🛣️ 89,057 road segments spanning 9,495 km total
+- 📍 36,558 intersections across the city
+- 🏘️ 83% of roads are residential — reflecting dense urban neighbourhoods  
+- ⚠️ Only 0.6% are primary roads — a key factor in Nairobi's congestion
+
+**Tools:** `Python` `OSMnx` `GeoPandas` `Folium` `Matplotlib`
+
+---
