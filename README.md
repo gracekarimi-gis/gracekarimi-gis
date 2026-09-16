@@ -38,9 +38,9 @@ I build geospatial solutions — from interactive web maps and remote sensing pi
 
 ### 💼 Experience
 
-- **Geomatics Intern** — Kenya Rural Roads Authority (KeRRA), Sep–Nov 2024
+- **Geomatics Intern** — Kenya Rural Roads Authority (KeRRA), Sep–Dec 2025
 - **Geospatial Analyst Intern** — Geodev Kenya Limited, Jan–May 2024
-- **Geomatics Research Assistant** — Dedan Kimathi University of Technology, 2023
+- **Geomatics Research Assistant** — Dedan Kimathi University of Technology, Jan-March 2023
 
 ---
 
