@@ -2,7 +2,7 @@
 
 ### Geomatics Engineer & GIS Developer | Nairobi, Kenya
 
-I build geospatial solutions — from interactive web maps and remote sensing pipelines to spatial databases and drone data processing. My work focuses on applying GIS and earth observation technologies to real-world challenges across Kenya and East Africa.
+I build geospatial solutions, from interactive web maps and remote sensing pipelines to spatial databases and drone data processing. My work focuses on applying GIS and earth observation technologies to real-world challenges across Kenya and East Africa.
 
 ---
 
